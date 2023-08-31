@@ -1,11 +1,5 @@
 # LemonSqueasy 🍋
 
-🌍 Global
-
-🚀 As a fast learner I'm always willing to learn new skills
-
-✨ Open to new opportunities (either front-end or full-stack)
-
 ### Skills
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" />
