@@ -1,4 +1,4 @@
-# LemonSqueasy 🍋
+# Hayden Sherwood 
 ### Skills
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" />
